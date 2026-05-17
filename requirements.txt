@@ -1,0 +1,19 @@
+﻿# Dessinateur du Futur - Dependances
+
+# Lecture/ecriture DXF/DWG
+ezdxf>=1.3.0
+
+# Controle direct AutoCAD (Windows COM)
+pyautocad>=0.2.0
+
+# LLM integration (optionnel)
+anthropic>=0.25.0
+openai>=1.0.0
+
+# API et utilitaires
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Interface web (optionnel)
+fastapi>=0.100.0
+uvicorn>=0.23.0

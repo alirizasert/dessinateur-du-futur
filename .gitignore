@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# AutoCAD
+*.bak
+*.sv$
+*.lck
+*.dwl
+*.dwl2
+
+# Temporaires
+*.tmp
+*.log
